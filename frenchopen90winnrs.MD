@@ -22,5 +22,10 @@
 1998 - Sanchez
 1998 - Moya
 >>>>>>> b1ab87531d5a04509ab659cbb64a2a097610b17e
+<<<<<<< HEAD
 1999 - Steffi Graf
 1999 - Agassi
+=======
+2000 - Mary pierce
+2000 - Guga
+>>>>>>> 25b2021ebb28ddeae635498673af42ad4771258f
