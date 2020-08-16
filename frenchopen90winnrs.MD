@@ -8,31 +8,3 @@
 1993 - Steffi Graf
 1994 - Brugera
 1994 - Sanchez
-<<<<<<< HEAD
-1995 - Steffi Graf
-1995 - Muster
-=======
-1996 - Steffi Graf
-1996 - Kafelnikov
->>>>>>> ef4aeb4c77409c811a579836b1b3de24fcbdca46
-<<<<<<< HEAD
-1997 - Guga
-1997 - Majoli
-=======
-1998 - Sanchez
-1998 - Moya
->>>>>>> b1ab87531d5a04509ab659cbb64a2a097610b17e
-<<<<<<< HEAD
-1999 - Steffi Graf
-1999 - Agassi
-=======
-2000 - Mary pierce
-2000 - Guga
->>>>>>> 25b2021ebb28ddeae635498673af42ad4771258f
-<<<<<<< HEAD
-2001 - Capriati
-2001 - Guga
-=======
-2002 - Costa
-2002 - Serana
->>>>>>> 7de933ace25e0d244cdcd4b739162a8059c70d24
