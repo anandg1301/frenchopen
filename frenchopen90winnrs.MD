@@ -15,5 +15,10 @@
 1996 - Steffi Graf
 1996 - Kafelnikov
 >>>>>>> ef4aeb4c77409c811a579836b1b3de24fcbdca46
+<<<<<<< HEAD
 1997 - Guga
 1997 - Majoli
+=======
+1998 - Sanchez
+1998 - Moya
+>>>>>>> b1ab87531d5a04509ab659cbb64a2a097610b17e
