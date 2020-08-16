@@ -6,3 +6,5 @@
 1992 - jim courier
 1993 - Brugera
 1993 - Steffi Graf
+1994 - Brugera
+1994 - Sanchez
