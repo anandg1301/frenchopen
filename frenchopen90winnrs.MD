@@ -4,3 +4,5 @@
 1991 - Jim courier
 1992 - monica seles
 1992 - jim courier
+1993 - Brugera
+1993 - Steffi Graf
