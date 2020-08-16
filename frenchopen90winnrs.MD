@@ -15,3 +15,5 @@
 1996 - Steffi Graf
 1996 - Kafelnikov
 >>>>>>> ef4aeb4c77409c811a579836b1b3de24fcbdca46
+1997 - Guga
+1997 - Majoli
