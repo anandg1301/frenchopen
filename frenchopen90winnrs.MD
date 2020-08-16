@@ -8,5 +8,10 @@
 1993 - Steffi Graf
 1994 - Brugera
 1994 - Sanchez
+<<<<<<< HEAD
 1995 - Steffi Graf
 1995 - Muster
+=======
+1996 - Steffi Graf
+1996 - Kafelnikov
+>>>>>>> ef4aeb4c77409c811a579836b1b3de24fcbdca46
