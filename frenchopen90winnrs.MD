@@ -29,5 +29,10 @@
 2000 - Mary pierce
 2000 - Guga
 >>>>>>> 25b2021ebb28ddeae635498673af42ad4771258f
+<<<<<<< HEAD
 2001 - Capriati
 2001 - Guga
+=======
+2002 - Costa
+2002 - Serana
+>>>>>>> 7de933ace25e0d244cdcd4b739162a8059c70d24
